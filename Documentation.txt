@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=B-bTPSwhsDY
 Discusson of MongoDB/Hadoop synergy:
 http://osintegrators.com/sites/default/files/Mongo.Whitepaper.pdf
 (Included for possiblity of storing picture data in a more efficient fashion down the line)
+
+Youtube DEV walkthrough for cassandra 3.0:
+https://www.youtube.com/watch?v=fC710dm9luk&index=5&list=PLqcm6qE9lgKJVwtv7vJ6SbE_ociBA_Srb
