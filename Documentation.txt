@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=fC710dm9luk&index=5&list=PLqcm6qE9lgKJVwtv7vJ6Sb
 
 Twitter API info:
 https://dev.twitter.com/docs/platform-objects/tweets
+
+Eclipse/Maven/Cassandra setup:
+http://www.datastax.com/documentation/developer/java-driver/1.0/java-driver/quick_start/qsSimpleClientCreate_t.html
