@@ -10,3 +10,6 @@ http://osintegrators.com/sites/default/files/Mongo.Whitepaper.pdf
 
 Youtube DEV walkthrough for CQL 3.0:
 https://www.youtube.com/watch?v=fC710dm9luk&index=5&list=PLqcm6qE9lgKJVwtv7vJ6SbE_ociBA_Srb
+
+Twitter API info:
+https://dev.twitter.com/docs/platform-objects/tweets
