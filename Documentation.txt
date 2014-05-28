@@ -1,2 +1,6 @@
 Cassandra overview white paper:
 http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf
+
+Discusson of MongoDB/Hadoop synergy:
+http://osintegrators.com/sites/default/files/Mongo.Whitepaper.pdf
+(Included for possiblity of storing picture data in a more efficient fashion down the line)
