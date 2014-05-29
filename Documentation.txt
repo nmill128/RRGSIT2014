@@ -22,3 +22,6 @@ http://www.datastax.com/documentation/developer/java-driver/1.0/java-driver/quic
 
 Twitter API tutorial of sorts:
 http://namingexception.wordpress.com/2011/09/12/how-easy-to-make-your-own-twitter-client-using-java/
+
+Twitter API code examples:
+http://twitter4j.org/en/code-examples.html
