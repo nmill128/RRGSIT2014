@@ -19,3 +19,6 @@ http://www.datastax.com/documentation/developer/java-driver/1.0/java-driver/quic
 
 CQL in java:
 http://www.datastax.com/documentation/developer/java-driver/1.0/java-driver/quick_start/qsSimpleClientAddSession_t.html
+
+Twitter API tutorial of sorts:
+http://namingexception.wordpress.com/2011/09/12/how-easy-to-make-your-own-twitter-client-using-java/
