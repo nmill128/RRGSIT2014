@@ -31,3 +31,6 @@ http://wiki.apache.org/solr/SchemaXml
 
 Custom Solr Core Creation:
 http://www.datastax.com/docs/datastax_enterprise3.0/solutions/dse_search_load_data
+
+Solr Query Documentation:
+http://www.datastax.com/docs/datastax_enterprise3.0/solutions/dse_search_query
