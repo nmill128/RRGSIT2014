@@ -25,3 +25,6 @@ http://namingexception.wordpress.com/2011/09/12/how-easy-to-make-your-own-twitte
 
 Twitter API code examples:
 http://twitter4j.org/en/code-examples.html
+
+Solr Wiki
+http://wiki.apache.org/solr/SchemaXml
