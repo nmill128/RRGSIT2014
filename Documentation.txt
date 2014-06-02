@@ -37,3 +37,6 @@ http://www.datastax.com/docs/datastax_enterprise3.0/solutions/dse_search_query
 
 Solr tips and troubleshooting:
 https://support.datastax.com/entries/38367716-Solr-Configuration-Best-Practices-and-Troubleshooting-Tips
+
+twitter4j Stream example:
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/stream/PrintSampleStream.java
